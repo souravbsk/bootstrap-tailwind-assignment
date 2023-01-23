@@ -1,0 +1,26 @@
+body{
+    font-family: 'EB Garamond', serif;
+}
+.f-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.theme-primary-color{
+    color: #B68C5A;
+}
+.theme-bg-primary-color{
+    background-color: #B68C5A;
+}
+.theme-primary-btn{
+    background-color: #B68C5A;
+    border:1px solid#B68C5A;
+}
+.theme-primary-btn:hover{
+    background-color: #b68d5ae4;
+}
+
+.theme-secondary-color{
+    color: #707070;
+}
+.theme-footer-color{
+    color: #CFCFCF;
+}
