@@ -24,10 +24,10 @@ body{
 .theme-third-color{
     color: #CFCFCF;
 }
-.faqbg{
+.theme-bg{
     background-color:  #F3F3F3;
-    border: 0;
 }
+
 /* --bs-accordion-btn-active-icon */
 .accordion-button:not(.collapsed) {
     background-color: #F3F3F3;
